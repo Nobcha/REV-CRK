@@ -16,7 +16,7 @@ WINDOW 3 16 96 Left 2
 SYMATTR Value lm358
 SYMATTR Prefix X
 SYMATTR Description Operational Amplifier symbol for LM358N
-SYMATTR ModelFile /LM/lm358n.subckt
+SYMATTR ModelFile lm358n.subckt
 PIN -32 80 NONE 0
 PINATTR PinName In+
 PINATTR SpiceOrder 1
@@ -32,3 +32,4 @@ PINATTR SpiceOrder 4
 PIN 32 64 NONE 0
 PINATTR PinName OUT
 PINATTR SpiceOrder 5
+
