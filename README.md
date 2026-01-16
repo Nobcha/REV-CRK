@@ -9,6 +9,7 @@ Recently thought: "Can each problem be solved?"
 
 Spoiler: Yes - but each required completely different expertise! 🎯
 
+![Air band receiver PCB ASSY in the junk box](/PCBASSY_IN_JB.jpg)
 ----------------------------------------------------------------
 
 **The Three Fatal Flaws:**
