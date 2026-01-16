@@ -169,7 +169,7 @@ v3 (planned): ESP32 platform
 
 **All Documentation:**
 - Blog (detailed fixes): https://nobcha23.hatenadiary.com/
-- GitHub (code, schematics): github.com/nobcha/rock-solid-vfo
+- GitHub (code, schematics): [github.com/nobcha/rock-solid-vfo](https://github.com/Nobcha/REV-CRK/edit/main/)
 - YouTube (build process): https://www.youtube.com/@nobchaa2255
 
 ---------------------------------------------------------------
